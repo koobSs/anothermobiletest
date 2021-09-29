@@ -3,7 +3,7 @@
         overflow-x: hidden;
     }
     .wrapper img{
-        width: 6.2in;
+        width: 100%;
         height: 690px;
     }
     #identity h1 {
