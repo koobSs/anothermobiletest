@@ -208,7 +208,7 @@
         top: 29.4px;
     }
     #steam {
-        left: 19%;
+        left: 14%;
         top: 32.5%;
         font-size: 20px;
         margin: 0;
@@ -218,12 +218,12 @@
     }
     #identity h1 {
         font-size: 70px;
-        left: 40.7%;
+        left: 42.7%;
         top: 345px;
     }
     #locate {
         top: 18px;
-        left: 44.1%;
+        left: 43.1%;
         width: 258px;
         height: 30px;
         opacity: 70%;
@@ -254,22 +254,10 @@
     }
     #login {
         left: 77%;
-        top: 34.5%;
-        font-size: 20px;
-        margin: 0;
-        padding: 0;
-        line-height: 1;
-        font-weight: 700;
-        font-family: "Poppins", sans-serif;
-        position: absolute;
-        color: #f1f1f1;
-        text-decoration: underline;
-        transition: ease-in-out 0.3s;
-        cursor: pointer;
     }
     #welcomemsg {
         top: 880px;
-        left: 36.09%;
+        left: 38.09%;
         margin: 0;
         padding: 0;
         line-height: 1;
@@ -323,7 +311,7 @@
     #musiclab {
         width: 90%;
         opacity: 0.75;
-        left: 46.99%;
+        left: 48.99%;
         top: 1000px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -332,20 +320,20 @@
     #aboutmusic {
         opacity: 0.75;
         font-size: 30px;
-        left: 28.1%;
+        left: 30.1%;
         top: 1700px;
         position: center; 
     }
     #musicimg {
         opacity: 0.40;
-        left: 34%;
+        left: 36%;
         top: 1145px;
         position: center; 
     }
     #videoslab {
         width: 90%;
         opacity: 0.75;
-        left: 46.4%;
+        left: 48.4%;
         top: 1800px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -354,19 +342,19 @@
     #aboutvideos {
         opacity: 0.75;
         font-size: 30px;
-        left: 25.2%;
+        left: 27.2%;
         top: 2400px;
         position: center; 
     }
     #videosimg {
         opacity: 0.50;
-        left: 31.8%;
+        left: 33.8%;
         top: 2100px;
         position: center; 
     }
     #gameslab {
         opacity: 0.75;
-        left: 46.9%;
+        left: 48.9%;
         top: 2500px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -375,18 +363,18 @@
     #aboutgames {
         opacity: 0.75;
         font-size: 30px;
-        left: 24.2%;
+        left: 26.2%;
         top: 3100px;
         position: center; 
     }
     #gamesimg {
         opacity: 0.50;
-        left: 27.9%;
+        left: 29.9%;
         top: 2950px;
         position: center; 
     }
     #blogin {
-        left: 45%;
+        left: 47%;
         top: 3690px;
         font-size: 62px;
         margin: 0;
