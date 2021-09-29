@@ -1,9 +1,9 @@
-@media (min-width: 375px) {
+@media (min-width: 255px) {
     body {
         overflow-x: hidden;
     }
     .wrapper img{
-        width: 1398px;
+        width: 6.2in;
         height: 690px;
     }
     #identity h1 {
