@@ -1,4 +1,4 @@
-@media (min-width: 425px) {
+@media (min-width: 375px) {
     body {
         overflow-x: hidden;
     }
@@ -171,11 +171,6 @@
         left: 460px;
     }
 }
-@media (min-width: 1024px) {
-    #musiclab {
-        left: 700px;
-    }
-} 
 @media (min-width: 1020px) { 
     body {
         overflow-x: hidden;
