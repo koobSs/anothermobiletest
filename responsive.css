@@ -3,18 +3,18 @@
         overflow-x: hidden;
     }
     .wrapper img{
-        width: 1200px;
+        width: 1082px;
         height: 690px;
-    }
-        .topbar {
-        left: -10px;
-        top: -10px;
-        width: 100%;
-        height: 100px;
     }
     #identity h1 {
         top: 350px;
         left: 88%;
+    }
+    .topbar {
+        left: -10px;
+        top: -10px;
+        width: 1036px;
+        height: 100px;
     }
     #locate {
         left: 25.6%;
@@ -98,12 +98,6 @@
     .wrapper img{
         width: 1398px;
         height: 690px;
-    }
-        .topbar {
-        left: -10px;
-        top: -10px;
-        width: 100%;
-        height: 100px;
     }
     #identity h1 {
         top: 350px;
@@ -190,7 +184,7 @@
     .topbar {
         left: -10px;
         top: -10px;
-        width: 100%;
+        width: 2020px;
         height: 100px;
     }
     #mobinfo {
@@ -246,7 +240,7 @@
         width: 1400px;
     }
     .wrapper img{
-        width: 100%;
+        width: 2020px;
         height: 690px;
         left: 0px;
         top: 100px;
@@ -392,7 +386,7 @@
         position: center; 
     }
     #blogin {
-        left: 45;
+        left: 45%;
         top: 3690px;
         font-size: 62px;
         margin: 0;
