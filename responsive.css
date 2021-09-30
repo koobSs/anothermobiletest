@@ -1,183 +1,15 @@
-@media (min-width: 255px) {
-    body {
-        overflow-x: hidden;
-    }
-    .wrapper img{
-        width: 1082px;
-        height: 690px;
-    }
-    #identity h1 {
-        top: 350px;
-        left: 88%;
-    }
-    .topbar {
-        left: -10px;
-        top: -10px;
-        width: 1036px;
-        height: 100px;
-    }
-    #locate {
-        left: 25.6%;
-    }
-    #text {
-        width: 100px;
-        left: 51.2%;
-        top: 28px;
-    }
-    .wow {
-        width: 97.5%;
-    }
-    #mobinfo {
-        opacity: 0%;
-    }
-    #cord {
-        left: 100px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #steam {
-        left: 250px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #login {
-        left: 670px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #login:hover {
-        font-size: 21px;
-    }
-    #welcomemsg {
-        width: 2000px;
-        text-overflow: ellipsis;
-        left: 259px
-    }
+@media (max-width: 991.98px) {
     #musiclab {
-        left: 450px;
-    }
-    #musicimg {
-        left: 219px;
-    }
-    #aboutmusic {
-        width: 2000px;
-        left: 120px
+        left: 50%;
     }
     #videoslab {
-        left: 430px
-    }
-    #videosimg {
-        left: 177px
-    }
-    #aboutvideos {
-        width: 800px;
-        top: 2360px;
-        left: 130px
+        left: 50%;
     }
     #gameslab {
-        top: 2450px;
-        left: 427px
-    }
-    #gamesimg {
-        top: 2940px;
-        left: 137px;
-    }
-    #aboutgames {
-        width: 900px;
-        top: 3010px;
-        left: 137px;
-    }
-    #blogin {
-        left: 460px;
-    }
- }
-@media (min-width: 425px) {
-    body {
-        overflow-x: hidden;
-    }
-    .wrapper img{
-        width: 1398px;
-        height: 690px;
-    }
-    #identity h1 {
-        top: 350px;
-        left: 420px;
-    }
-    #locate {
-        left: 470px;
-    }
-    #text {
-        left: 1000px;
-        top: 28px;
-    }
-    .wow {
-        width: 97.5%;
-    }
-    #mobinfo {
-        opacity: 0%;
-    }
-    #cord {
-        left: 100px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #steam {
-        left: 250px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #login {
-        left: 890px;
-        top: 35px;
-        font-size: 20px;
-    }
-    #login:hover {
-        font-size: 21px;
-    }
-    #welcomemsg {
-        width: 900px;
-        text-overflow: ellipsis;
-        left: 317px
-    }
-    #musiclab {
-        left: 500px;
-    }
-    #musicimg {
-        left: 270px;
-    }
-    #aboutmusic {
-        width: 900px;
-        left: 160px
-    }
-    #videoslab {
-        left: 490px
-    }
-    #videosimg {
-        left: 227px
-    }
-    #aboutvideos {
-        width: 990px;
-        top: 2400px;
-        left: 130px
-    }
-    #gameslab {
-        top: 2450px;
-        left: 497px
-    }
-    #gamesimg {
-        top: 2890px;
-        left: 160px;
-    }
-    #aboutgames {
-        width: 1000px;
-        top: 3010px;
-        left: 110px;
-    }
-    #blogin {
-        left: 460px;
+        left: 50%;
     }
 }
-@media (min-width: 1020px) { 
+@media (max-width: 1019.9px) { 
     body {
         overflow-x: hidden;
     }
@@ -218,12 +50,12 @@
     }
     #identity h1 {
         font-size: 70px;
-        left: 42.7%;
+        left: 44.7%;
         top: 345px;
     }
     #locate {
         top: 18px;
-        left: 43.1%;
+        left: 42.1%;
         width: 258px;
         height: 30px;
         opacity: 70%;
@@ -257,7 +89,7 @@
     }
     #welcomemsg {
         top: 880px;
-        left: 38.09%;
+        left: 40.09%;
         margin: 0;
         padding: 0;
         line-height: 1;
@@ -311,7 +143,7 @@
     #musiclab {
         width: 90%;
         opacity: 0.75;
-        left: 48.99%;
+        left: 50.99%;
         top: 1000px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -320,20 +152,20 @@
     #aboutmusic {
         opacity: 0.75;
         font-size: 30px;
-        left: 30.1%;
+        left: 34.1%;
         top: 1700px;
         position: center; 
     }
     #musicimg {
         opacity: 0.40;
-        left: 36%;
+        left: 38%;
         top: 1145px;
         position: center; 
     }
     #videoslab {
         width: 90%;
         opacity: 0.75;
-        left: 48.4%;
+        left: 50.4%;
         top: 1800px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -342,19 +174,19 @@
     #aboutvideos {
         opacity: 0.75;
         font-size: 30px;
-        left: 27.2%;
+        left: 29.2%;
         top: 2400px;
         position: center; 
     }
     #videosimg {
         opacity: 0.50;
-        left: 33.8%;
+        left: 35.8%;
         top: 2100px;
         position: center; 
     }
     #gameslab {
         opacity: 0.75;
-        left: 48.9%;
+        left: 50.9%;
         top: 2500px;
         position: center; 
         color:rgba(134, 136, 6, 0.753);
@@ -363,18 +195,19 @@
     #aboutgames {
         opacity: 0.75;
         font-size: 30px;
-        left: 26.2%;
+        left: 28.2%;
+        width: 100%;
         top: 3100px;
         position: center; 
     }
     #gamesimg {
         opacity: 0.50;
-        left: 29.9%;
+        left: 31.0%;
         top: 2950px;
         position: center; 
     }
     #blogin {
-        left: 47%;
+        left: 52%;
         top: 3690px;
         font-size: 62px;
         margin: 0;
